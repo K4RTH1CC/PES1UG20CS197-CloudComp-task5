@@ -1,2 +1,2 @@
-my_prog: my_prog.c
-	gcc my_prog.c -o my_prog
+my_prog: my_prog.cpp
+	g++ my_prog.cpp -o my_prog
